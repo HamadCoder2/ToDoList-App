@@ -1,4 +1,4 @@
-# ToDo-List App 📃
+# ToDo-List App 🗒️
 This is a simple todo list application built with React.
 
 ## Demo view 
