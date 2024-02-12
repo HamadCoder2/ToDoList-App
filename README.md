@@ -1,6 +1,7 @@
 # ToDo-List App 📃
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Demo view 
+Live Preview - [https://to-do-list-app-one-alpha.vercel.app/]
 
 ## Available Scripts
 
